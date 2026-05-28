@@ -8,7 +8,7 @@ Flutter UI/UX animation assignment for Flick TV.
 
 ## Preview
 
-<img src="media/flicktv-sumit-preview.jpg" alt="FlickTV Sumit screenshot" width="360" />
+<img src="media/flicktv-sumit-preview.jpg" alt="FlickTV Sumit screenshot" width="280" />
 
 [Open full-size screenshot](media/flicktv-sumit.jpg)
 
