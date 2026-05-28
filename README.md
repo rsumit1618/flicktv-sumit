@@ -2,6 +2,20 @@
 
 Flutter UI/UX animation assignment for Flick TV.
 
+## APK
+
+[Download the signed APK](media/flicktv-sumit-release.apk?raw=true)
+
+## Preview
+
+![FlickTV Sumit screenshot](media/flicktv-sumit.jpg)
+
+## Screen Recording
+
+<video src="media/flicktv-sumit-rec.mp4" controls width="360"></video>
+
+[Open the screen recording](media/flicktv-sumit-rec.mp4)
+
 ## Details
 
 - Package name: `flicktv.sumit`
